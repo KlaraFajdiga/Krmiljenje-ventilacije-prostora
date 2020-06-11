@@ -19,3 +19,4 @@ Nalogo bi lahko naredila bolje, če bi motorček, saj sem morala namesto njega u
 Če bi imela motorček, bi lahko dinamično spreminjala njegovo hitrost skozi analogne podatke, ki bi jih pridobili.
 
 ![Shematsko vezje](shema.png)
+![Breadboard shema](breadboard.png)
