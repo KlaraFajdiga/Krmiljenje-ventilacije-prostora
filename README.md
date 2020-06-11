@@ -18,4 +18,4 @@ Drugo stikalo pa preklaplja med ročnim (rdeča) načinom in avtomatskim (zelena
 Nalogo bi lahko naredila bolje, če bi motorček, saj sem morala namesto njega uporabiti LED.
 Če bi imela motorček, bi lahko dinamično spreminjala njegovo hitrost skozi analogne podatke, ki bi jih pridobili.
 
-![Shematsko vezje](Shematsko vezje.png)
+![Shematsko vezje](shema.png)
