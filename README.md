@@ -11,3 +11,9 @@ Kosovnica :
 - 2x LED dioda (ena zelena in ena rdeča)
 - 1x tranzistor
 - 6x uporov
+
+Prvo stikalo vklopi/izklopi ventilacijo.
+Drugo stikalo pa preklaplja med ročnim (rdeča) načinom in avtomatskim (zelena) načinom.
+
+Nalogo bi lahko naredila bolje, če bi motorček, saj sem morala namesto njega uporabiti LED.
+Če bi imela motorček, bi lahko dinamično spreminjala njegovo hitrost skozi analogne podatke, ki bi jih pridobili.
